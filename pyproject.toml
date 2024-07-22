@@ -1,0 +1,15 @@
+[project]
+name = "hellostreamlit_wc"
+version = "0.1.0"
+description = "Practice streamlit"
+authors = [
+    {name = "WhiteCapella", email = "whitecapella@naver.com"},
+]
+dependencies = []
+requires-python = ">=3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = true
